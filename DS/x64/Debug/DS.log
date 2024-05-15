@@ -1,0 +1,19 @@
+﻿  graph.cpp
+C:\Users\HOSSAM\source\repos\DS\DS\graph.cpp(339,17): warning C4129: '{': unrecognized character escape sequence
+C:\Users\HOSSAM\source\repos\DS\DS\graph.cpp(346,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.37.32705\include\utility(247,54): warning C4244: 'initializing': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\HOSSAM\source\repos\DS\DS\graph.cpp(244,25): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,float&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=float &
+          ]
+C:\Users\HOSSAM\source\repos\DS\DS\graph.cpp(244,24): message : see the first reference to 'std::pair<std::string,int>::pair' in 'graph::add_road'
+  main..cpp
+C:\Users\HOSSAM\source\repos\DS\DS\main..cpp(17,11): warning C4101: 'd': unreferenced local variable
+  Generating Code...
+  DS.vcxproj -> C:\Users\HOSSAM\source\repos\DS\x64\Debug\DS.exe
